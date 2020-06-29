@@ -1,5 +1,6 @@
 # everest_bank_login
 
 ## screenshots
-![](ss1.jpg)
-![](ss2.jpg)
+<img src="ss1.jpg" width="350">
+<img src="ss2.jpg" width="350">
+
